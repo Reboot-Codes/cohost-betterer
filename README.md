@@ -1,6 +1,6 @@
 # cohost-betterer
 
-Since Tumblr is run by \[not so nice people\] (GitHub is not the place to be ), we've decided to write an improvement userscript for [CoHost](https://cohost.org)!
+Since Tumblr is run by \[not so nice people\] (GitHub is not the place to be as pedantic as we'd like, if you know, you know), we've decided to write an improvement userscript for [CoHost](https://cohost.org)!
 
 Currently, it doesn't do anything helpful, but the build system *is* setup.
 
